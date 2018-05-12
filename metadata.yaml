@@ -1,4 +1,5 @@
 _repo: The-Amethyst-Ring_49108
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -10,6 +11,9 @@ contributor:
     agent_name: Drillien, B.
     gutenberg_agent_id: '45147'
     url: http://www.gutenberg.org/2009/agents/45147
+covers:
+- cover_type: archival
+  image_path: 49108-h/images/cover.jpg
 creator:
   author:
     agent_name: France, Anatole
@@ -23,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49108#The-Amethyst-Ring
 gutenberg_issued: '2015-06-02'
 gutenberg_type: Text
 identifiers:
